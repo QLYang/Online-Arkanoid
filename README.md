@@ -3,7 +3,7 @@
 [!image](https://github.com/QLYang/Online-Arkanoid/blob/master/screenshot/list.png)
 
 2.player1创建新游戏:
-[!image](https://github.com/QLYang/Online-Arkanoid/blob/master/screenshot/createNewGame.png)
+[!image]( Online-Arkanoid/screenshot/createNewGame.png )
 
 3.player1等待玩家加入：
 [!image](https://github.com/QLYang/Online-Arkanoid/blob/master/screenshot/waitForOpponent.png)
